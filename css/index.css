@@ -1,0 +1,50 @@
+#green {
+    margin: 10px 0 0 0;
+    border: 1px solid #000000;
+}
+
+#yellow {
+    border: 1px solid #000000;
+    margin: 10px 0 0 0;
+}
+
+#red {
+    border: 1px solid #000000;
+}
+
+#digit {
+    text-align: center;
+    line-height: 0.5%;
+    font-size: 200%;
+}
+
+.red {
+    background-color: red;
+    color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: #2cf400;
+    color: #2cf400;
+}
+
+#isiqfor {
+    border: 10px solid black;
+    padding: 10px 3px;
+    width: 50px;
+    background-color: #0f0d0d;
+}
+
+#isiqfor>div {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.hide {
+    display: none;
+}
